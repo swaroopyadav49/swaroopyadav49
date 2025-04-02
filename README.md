@@ -2,7 +2,7 @@
 <h3 align="center">I'm Data Scientist | Mentor from India</h3>
 
 
-### I work experience, Technical Knowledge and Indepth interest in:
+### I have work experience, Technical Knowledge and Indepth interest in:
 * Data Analytics
 * Statistics
 * Machine Learning
