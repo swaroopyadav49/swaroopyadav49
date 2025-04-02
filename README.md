@@ -2,10 +2,11 @@
 <h3 align="center">I'm Data Scientist | Mentor from India</h3>
 
 
-### I have technical experience and interest in:
-* Deep Learning
+### I work experience, Technical Knowledge and Indepth interest in:
+* Data Analytics
+* Statistics
 * Machine Learning
-* Computer vision 
+* Deep Learing
 * Natural Language Processing
 * MLOps
 * Generative AI
